@@ -1,0 +1,13 @@
+Participantes:
+Jose Joel Pena Velez
+
+Información:
+	Esto es un proyecto realizado por un estudiante donde se incorpora unas bases de datos de lenguaje SQLite donde se utiliza un formulario y pagina web para acceder a los datos. La base de datos se guardará en el ruta D:/, si deseara de cambiarlo tendrá que cambiarlo en los códigos de los dos programas. Para que los programas funcionen, se instaló todas las librerías requeridas del SQLite.
+
+Instrucciones:
+1.	Ve a esta dirección: FormApp\FormApp\bin\Debug y ejecuta la aplicación FormApp.
+2.	Abres la aplicación, debes oprimir el botón crear para crear la base de datos de la lista de admin.
+3.	Una vez hecho esto, escribe el username y password deseado y oprime el botón registrar. Al hacer esto, el username y password escrito se guardará en la base de datos de admin.
+4.	Vuelve y escribe el username y password y oprime el botón login para acceder al menú.
+5.	Antes de todo, debes crear al menos una tabla y un producto para que las otras funciones puedan ejecutarse correctamente. Cada producto esta atado a un ID único, este va en incremento dependiendo del producto anterior, en este caso seria 1.
+6.	Ya con esto, podrás ir a la pagina web. Para ejecutarlo, debe abrir la solución del projecto y ejecutarlo dentro de visual studio. La razón por esto es que se necesita correr un servidor local para que pueda ejecutar todos los archivos.
